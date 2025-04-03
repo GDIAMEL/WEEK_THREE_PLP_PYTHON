@@ -1,5 +1,6 @@
-# WEEK_THREE_PLP_PYTHON
-# Discount Calculation for Prices
+# SAMUEL EMMANUEL KIMARO
+## WEEK_THREE_PLP_PYTHON
+## Discount Calculation for Prices
 
 ## Overview
 This Python script calculates the final price of an item after applying a discount. If the discount percentage is **20% or higher**, the discount is applied. Otherwise, the original price remains unchanged.
